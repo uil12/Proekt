@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&family=Source+Sans+Pro&display=swap');
+
+
+body{
+	background-color: grey;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a{
+	text-decoration: none;
+	color: #09b7ec;
+}
+.h4{
+	color: white;
+	font-size: 18px;
+	padding-left: 290px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+.h5{
+	color: white;
+	font-size: 18px;
+	padding-right: 100px;
+	padding-top: 20px;
+	width: 600px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.h6{
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	padding-top: 14px;
+	padding-left: 38px;
+}
+.box{
+	margin: auto;
+	height: 500px;
+	width: 900px;
+}
+.header{
+	background-color: #2c2c2c;
+	border: solid 2px rgba(65, 65, 65, 0.253);
+	height: 50px;
+	width: 900px;
+	position: sticky;
+	top: 30px;
+	border-radius: 10px;
+}
+.header__menu{
+
+}
+.header__menu-li{
+	cursor: pointer;
+	margin-top: 10px;
+	padding-left: 250px;
+	color: white;
+	font-size: 20px;
+	list-style: none;
+	display: flex;
+	margin-left: -20px;
+}
+.header__menu-li li{
+	padding-left: 20px;
+}
+.logo__li {
+	font-size: 20px;
+}
+.center__tape-block1{
+	margin-top: 50px;
+	background-color: #2c2c2c;
+	height: 300px;
+	width: 900px;
+	border-radius: 10px;
+}
+.center__tape-block1-in{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-top: -110px;
+}
+.center__tape-block2{
+	background-color: #2c2c2c;
+	height: 300px;
+	width: 900px;
+	border-radius: 10px;
+}
+.center__tape-block2-in{
+	background-image: url(image1.png);
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 625px;
+	margin-top: -95px;
+	background-size: cover;
+    background-position: center;
+}
+.center__tape-block3{
+	margin-top: 30px;
+	background-color: #2c2c2c;
+	height: 300px;
+	width: 900px;
+	border-radius: 10px;
+	padding-top: 50px;
+}
+.center__tape-block3-in{
+	background-color: #a0a0a0;
+	width: 200px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+.center__tape-block3-in-green{
+	cursor: pointer;
+	background-color: #0864ec;
+	width: 170px;
+	height: 50px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 60px;
+}
+.center__tape-block3-in-1{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 170px;
+	height: 120px;
+	border-radius: 10px;
+	margin-left: 15px;
+}
+.center__tape-block3-in-2{
+	background-color: #a0a0a0;
+	width: 200px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 300px;
+	margin-top: -240px;
+	padding-top: 10px;
+}
+.center__tape-block3-in-2-in{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 170px;
+	height: 120px;
+	border-radius: 10px;
+	margin-left: 15px;
+}
+.center__tape-block3-in-3{
+	background-color: #a0a0a0;
+	width: 200px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 600px;
+	margin-top: -260px;
+	padding-top: 10px;
+}
+.center__tape-block3-in-3-in{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 170px;
+	height: 120px;
+	border-radius: 10px;
+	margin-left: 15px;
+}
+.center__tape-block4{
+	margin-top: 80px;
+	background-color: #2c2c2c;
+	height: 300px;
+	width: 900px;
+	border-radius: 10px;
+	padding-top: 50px;
+}
+.center__tape-block4-1{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 50px;
+}
+.center__tape-block4-2{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.center__tape-block4-3{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 260px;
+	margin-top: -250px;
+}
+.center__tape-block4-4{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 260px;
+	margin-top: 50px;
+}
+.center__tape-block4-5{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 470px;
+	margin-top: -250px;
+}
+.center__tape-block4-6{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 470px;
+	margin-top: 50px;
+}
+.center__tape-block4-7{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 680px;
+	margin-top: -250px;
+}
+.center__tape-block4-8{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	margin-left: 680px;
+	margin-top: 50px;
+}
+.footer{
+	position: absolute;
+  	left: auto;
+ 	bottom: 1;
+	background-color: #2c2c2c;
+	height: 300px;
+	width: 900px;
+	border-radius: 10px;
+	margin-top: 40px;
+}
+.footer__block{
+
+}
+.footer__block-top-left{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	position: relative;
+	top: 30px; left: 40px;
+}
+.footer__block-top-right{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	position: relative;
+	top: 70px; left: 40px;
+}
+.footer__block-bottom-left{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	position: relative;
+	top: -170px; left: 710px;
+}
+.footer__block-bottom-right{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	position: relative;
+	top: -130px; left: 710px;
+}
+.footer__block-centered{
+	background-image: url(image1.png);
+	background-size: cover;
+    background-position: center;
+	width: 150px;
+	height: 100px;
+	border-radius: 10px;
+	position: relative;
+	top: -300px; left: 380px;
+}
