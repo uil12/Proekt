@@ -1,0 +1,233 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic);
+body{
+    background-color: grey;
+    font-family: 'Ubuntu', 'sans-serif';
+}
+.h4{
+    color: white;
+    width: 320px;
+    margin-left: 250px;
+    padding-left: 10px;
+}
+.box{
+    background-color: rgb(70, 70, 70);
+    height: 900px;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+}
+.header{
+    background-color: rgb(53, 53, 53);
+    height: 70px;
+    width: 800px;
+    border-radius: 10px;
+}
+.logo{
+    color: rgb(20, 102, 196);
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 15px;
+    cursor: pointer;
+}
+.header__menu-ul{
+
+}
+.header__menu-li{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 10px;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.sidebar{
+
+}
+.sidebar__menu{
+    background-color: rgb(53, 53, 53);
+    height: 200px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.sidebar__menu-ul{
+
+}
+.sidebar__menu-li{
+    text-align: center;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    margin-left: -5px;
+    margin-top: -4px;
+}
+.sidebar__menu-li li{
+    padding-top: 10px;
+}
+.sidebar__box{
+    background-color: rgb(53, 53, 53);
+    height: 200px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.sidebar__box-in{
+    background-color: rgb(158, 158, 158);
+    height: 160px;
+    width: 110px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.center__tape{
+
+}
+.center__tape-box1{
+    box-sizing: border-box;
+    background-color: rgb(53, 53, 53);
+    height: 300px;
+    width: 600px;
+    margin-left: 180px;
+    margin-top: -420px;
+    border-radius: 10px;
+    padding-top: 35px;
+}
+.center__tape-box1-in{
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 230px;
+    width: 220px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -150px;
+}
+.center__tape-box4{
+    box-sizing: border-box;
+    background-color: rgb(53, 53, 53);
+    height: 200px;
+    width: 600px;
+    margin-left: 180px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-top: 35px;
+}
+.center__tape-box4-in1{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 100px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.center__tape-box4-in2{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 100px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 165px;
+    margin-top: -100px;
+}
+.center__tape-box4-in3{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 100px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 310px;
+    margin-top: -100px;
+}
+.center__tape-box4-in4{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 100px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 455px;
+    margin-top: -100px;
+}
+.center__tape-box6{
+    box-sizing: border-box;
+    background-color: rgb(53, 53, 53);
+    height: 230px;
+    width: 600px;
+    margin-left: 180px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-top: 35px;
+}
+.center__tape-box6-in1{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.center__tape-box6-in2{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: -90px;
+    margin-left: 460px;
+}
+.center__tape-box6-in3{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: -150px;
+    margin-left: 160px;
+}
+.center__tape-box6-in4{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.center__tape-box6-in5{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: -200px;
+    margin-left: 320px;
+}
+.center__tape-box6-in6{
+    align-items: center;
+    box-sizing:border-box;
+    background-color: rgb(158, 158, 158);
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 320px;
+    margin-top: 20px;
+}
