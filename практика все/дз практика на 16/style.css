@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(165, 189, 189);
+}
+.box{
+    background-color: rgb(56, 56, 56);
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+}
+.btn{
+    margin-bottom: 50px;
+}
