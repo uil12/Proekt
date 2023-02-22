@@ -1,0 +1,74 @@
+body{
+    width: 1920px
+}
+.block-left-1{
+    position: relative;
+    width: 150px;
+    height: 800px;
+    background-color: #564A56;
+}
+.logo-1{
+    padding-left: 12px;
+    padding-top: 17px;
+}
+.menu{
+    padding-top: 265px;
+    padding-left: 43px;
+    color: white;
+}
+.line-1{
+    padding-top: 15px;
+    padding-left: 43px;
+}
+.line-2{
+    position: absolute;
+    top: 447px;
+    left: 43px;
+}
+.arrow{
+    position: absolute;
+    left: 70px;
+    top: 722px;
+}
+.city-1{
+    width: 1770px;
+    height: 500px;
+}
+.city-img-1{
+    width: 1770px;
+    height: 800px;
+}
+
+.block-1{
+    display: flex;
+    position: relative;
+}
+.text-2{
+    position: absolute;
+    left: 297px;
+    top: 340px;
+    font-size: 64px;
+    width: 1024px;
+    color: #FFFFFF;
+}
+.text-1{
+    position: absolute;
+    left: 297px;
+    top: 255px;
+    font-size: 36px;
+    color: #C7A046;
+}
+.phone{
+    position: absolute;
+    width: 256px;
+    height: 31px;
+    left: 1624px;
+    top: 46px;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+.sss{
+    position: absolute;
+    left: 1354px;
+    top: 340px;
+}
